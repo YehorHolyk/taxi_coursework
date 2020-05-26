@@ -1,0 +1,16 @@
+<%@ include file="/WEB-INF/view/jspf/directive/page.jspf"%>
+<%@ include file="/WEB-INF/view/jspf/directive/taglib.jspf"%>
+
+<head>
+
+    <title>Taxi</title>
+
+    <link rel="stylesheet" type="text/css" media="screen"
+          href="./css/bootstrap.min.css" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <script type="text/javascript"
+            src="./js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+</head>
