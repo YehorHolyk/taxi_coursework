@@ -6,12 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="12.11.19">
+    <list default="true" id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java" afterDir="false" />
     </list>
-    <list id="74b8623e-205a-4546-9915-68bca5fed73f" name="changed DB" comment="" />
+    <list id="74b8623e-205a-4546-9915-68bca5fed73f" name="changed DB" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="D:\taxi_coursework\.idea\shelf/" />
@@ -127,20 +128,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="java" value="23798" />
+          <entry key="java" value="23833" />
           <entry key="jsp" value="6296" />
           <entry key="jspf" value="1247" />
           <entry key="properties" value="18" />
           <entry key="sql" value="99" />
-          <entry key="txt" value="23" />
+          <entry key="txt" value="66" />
           <entry key="xml" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="23795" />
+          <entry key="JAVA" value="23830" />
           <entry key="JSP" value="7543" />
-          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="PLAIN_TEXT" value="100" />
           <entry key="Properties" value="18" />
           <entry key="SQL" value="64" />
           <entry key="Scratch" value="38" />
@@ -153,12 +154,12 @@
           <entry key="auto" value="3" />
           <entry key="class" value="15" />
           <entry key="html" value="1" />
-          <entry key="java" value="316" />
-          <entry key="jsp" value="59" />
-          <entry key="jspf" value="31" />
+          <entry key="java" value="332" />
+          <entry key="jsp" value="63" />
+          <entry key="jspf" value="35" />
           <entry key="order" value="2" />
           <entry key="order_status" value="1" />
-          <entry key="properties" value="17" />
+          <entry key="properties" value="18" />
           <entry key="route" value="1" />
           <entry key="sql" value="2" />
           <entry key="user" value="1" />
@@ -171,9 +172,9 @@
           <entry key="CLASS" value="15" />
           <entry key="Database Element" value="11" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="316" />
-          <entry key="JSP" value="90" />
-          <entry key="Properties" value="17" />
+          <entry key="JAVA" value="332" />
+          <entry key="JSP" value="98" />
+          <entry key="Properties" value="18" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="9" />
         </counts>
@@ -185,7 +186,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/signup.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="28" selection-end-line="152" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -212,7 +222,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -387,15 +397,15 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/filladdress.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/head.jspf" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/zapros.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Zapros.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/OrderDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java" />
@@ -442,6 +452,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AddressService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java" />
       </list>
     </option>
   </component>
@@ -501,6 +514,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -679,7 +693,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -956,6 +969,7 @@
         <item itemvalue="Application.MongoDBTest" />
         <item itemvalue="Application.MongoDBTest" />
         <item itemvalue="Application.MongoDBTest" />
+        <item itemvalue="Application.MongoDBTest" />
       </list>
     </recent_temporary>
   </component>
@@ -982,13 +996,13 @@
     </columns>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <branch name="master" repository="D:\taxi_coursework" original="true" />
       <changelist id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="" />
       <created>1558791033481</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608982821980</updated>
+      <updated>1610369701333</updated>
       <workItem from="1558791037111" duration="1131000" />
       <workItem from="1558792405446" duration="13723000" />
       <workItem from="1558823174314" duration="3417000" />
@@ -1069,7 +1083,7 @@
       <workItem from="1608984959293" duration="78000" />
       <workItem from="1608985071604" duration="112000" />
       <workItem from="1608991883395" duration="594000" />
-      <workItem from="1610368074661" duration="961000" />
+      <workItem from="1610368074661" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="Files missing">
       <branch name="master" repository="D:\taxi_coursework" />
@@ -1079,6 +1093,25 @@
       <option name="project" value="LOCAL" />
       <updated>1608982821553</updated>
       <workItem from="1608982486262" duration="334000" />
+    </task>
+    <task active="true" id="TAX-11" summary="Define project structure">
+      <created>1608939288144</created>
+      <option name="issue" value="true" />
+      <url>http://sedep.nure.ua/jira/browse/TAX-11</url>
+      <option name="number" value="11" />
+      <option name="presentableId" value="TAX-11" />
+      <option name="project" value="TAX" />
+      <updated>1610380114295</updated>
+      <workItem from="1610369702277" duration="1783000" />
+    </task>
+    <task id="TAX-12" summary="DEV: define project structure">
+      <created>1608939467000</created>
+      <option name="issue" value="true" />
+      <url>http://sedep.nure.ua/jira/browse/TAX-12</url>
+      <option name="number" value="12" />
+      <option name="presentableId" value="TAX-12" />
+      <option name="project" value="TAX" />
+      <updated>1610379914944</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="createBranch" value="false" />
@@ -1098,7 +1131,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307416000" />
+    <option name="totallyTimeSpent" value="309642000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1134,7 +1167,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32844576" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.45740741" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.58518517" />
       <window_info anchor="bottom" id="JIRA" order="16" weight="0.5058651" />
@@ -1193,38 +1226,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12.11.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.11.19" />
+    <MESSAGE value="TAX-11" />
+    <MESSAGE value="TAX-12" />
+    <MESSAGE value="TAX-11 Defined project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="TAX-11 Defined project structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1248,16 +1258,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/DAOFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order_status" />
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/auto" />
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/IMyDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1408,13 +1408,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="113" selection-start-line="19" selection-start-column="113" selection-end-line="19" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -1443,6 +1436,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/constants/DBConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1583,6 +1590,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="113" selection-start-line="19" selection-start-column="113" selection-end-line="19" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
