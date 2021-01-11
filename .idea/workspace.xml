@@ -6,75 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="12.11.19">
+    <list default="true" id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="TAX-11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/ContextListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/ContextListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/DBConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/DBConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/DBConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/DBConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/RequestConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/RequestConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AccountController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddAutoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddShoppingCartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AutoInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AutoInfoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/CatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/CatalogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/DeleteAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/DeleteAutoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FavouriteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FavouriteController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FillAddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FillAddressController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LogOutController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LogOutController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/RemoveShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/RemoveShoppingCartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SearchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SearchController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/ShoppingCardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/ShoppingCardController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SignUpController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/UpdateOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/UpdateOrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AddressDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AddressDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AutoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AutoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/DAOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/DAOFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/GenericDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/GenericDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/IMyDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/IMyDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MongoDBDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MongoDBDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MySQLDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MySQLDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderAutoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderAutoDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/RouteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/RouteDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TestDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TestDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TypeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TypeDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Auto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Entity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderAuto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderAuto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Route.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Route.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/UserRole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Zapros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Zapros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/exception/AppException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/exception/AppException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AddressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AddressService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AutoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/GenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/GenericService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderAutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderAutoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/RouteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/RouteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/TestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/com/egolik/taxi/controller/AddAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/com/egolik/taxi/controller/AddAutoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/menu.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/menu.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/taxi/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/index.jsp" afterDir="false" />
     </list>
     <list id="74b8623e-205a-4546-9915-68bca5fed73f" name="changed DB" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
@@ -199,7 +132,7 @@
           <entry key="jspf" value="1247" />
           <entry key="properties" value="18" />
           <entry key="sql" value="99" />
-          <entry key="txt" value="23" />
+          <entry key="txt" value="30" />
           <entry key="xml" value="128" />
         </counts>
       </usages-collector>
@@ -207,7 +140,7 @@
         <counts>
           <entry key="JAVA" value="23795" />
           <entry key="JSP" value="7543" />
-          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="PLAIN_TEXT" value="64" />
           <entry key="Properties" value="18" />
           <entry key="SQL" value="64" />
           <entry key="Scratch" value="38" />
@@ -220,12 +153,12 @@
           <entry key="auto" value="3" />
           <entry key="class" value="15" />
           <entry key="html" value="1" />
-          <entry key="java" value="316" />
-          <entry key="jsp" value="59" />
-          <entry key="jspf" value="31" />
+          <entry key="java" value="329" />
+          <entry key="jsp" value="63" />
+          <entry key="jspf" value="35" />
           <entry key="order" value="2" />
           <entry key="order_status" value="1" />
-          <entry key="properties" value="17" />
+          <entry key="properties" value="18" />
           <entry key="route" value="1" />
           <entry key="sql" value="2" />
           <entry key="user" value="1" />
@@ -238,9 +171,9 @@
           <entry key="CLASS" value="15" />
           <entry key="Database Element" value="11" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="316" />
-          <entry key="JSP" value="90" />
-          <entry key="Properties" value="17" />
+          <entry key="JAVA" value="329" />
+          <entry key="JSP" value="98" />
+          <entry key="Properties" value="18" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="9" />
         </counts>
@@ -287,8 +220,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -386,7 +319,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="306">
               <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="e#925#926#0" expanded="true" />
@@ -1028,6 +961,7 @@
         <item itemvalue="Application.MongoDBTest" />
         <item itemvalue="Application.MongoDBTest" />
         <item itemvalue="Application.MongoDBTest" />
+        <item itemvalue="Application.MongoDBTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1054,13 +988,13 @@
     </columns>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <branch name="master" repository="D:\taxi_coursework" original="true" />
       <changelist id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="" />
       <created>1558791033481</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608982821980</updated>
+      <updated>1610369701333</updated>
       <workItem from="1558791037111" duration="1131000" />
       <workItem from="1558792405446" duration="13723000" />
       <workItem from="1558823174314" duration="3417000" />
@@ -1141,7 +1075,7 @@
       <workItem from="1608984959293" duration="78000" />
       <workItem from="1608985071604" duration="112000" />
       <workItem from="1608991883395" duration="594000" />
-      <workItem from="1610368074661" duration="961000" />
+      <workItem from="1610368074661" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="Files missing">
       <branch name="master" repository="D:\taxi_coursework" />
@@ -1151,6 +1085,16 @@
       <option name="project" value="LOCAL" />
       <updated>1608982821553</updated>
       <workItem from="1608982486262" duration="334000" />
+    </task>
+    <task active="true" id="TAX-11" summary="Define project structure">
+      <created>1608939288144</created>
+      <option name="issue" value="true" />
+      <url>http://sedep.nure.ua/jira/browse/TAX-11</url>
+      <option name="number" value="11" />
+      <option name="presentableId" value="TAX-11" />
+      <option name="project" value="TAX" />
+      <updated>1610369702191</updated>
+      <workItem from="1610369702277" duration="750000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="createBranch" value="false" />
@@ -1170,7 +1114,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307407000" />
+    <option name="totallyTimeSpent" value="308609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1185,7 +1129,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61252445" visible="true" weight="0.31946307" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61252445" visible="true" weight="0.31946307" />
       <window_info id="Structure" order="1" sideWeight="0.1994135" side_tool="true" weight="0.23691276" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1206,7 +1150,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32844576" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32991204" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.45740741" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.58518517" />
       <window_info anchor="bottom" id="JIRA" order="16" weight="0.5058651" />
@@ -1270,7 +1214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12.11.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.11.19" />
+    <MESSAGE value="TAX-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="TAX-11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1294,14 +1239,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/DAOFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order_status" />
     <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/auto" />
     <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/IMyDAO.java">
@@ -1492,6 +1429,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/constants/DBConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/ShoppingCardController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1588,7 +1539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="306">
           <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="e#925#926#0" expanded="true" />
@@ -1627,8 +1578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
