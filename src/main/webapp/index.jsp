@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="https://www.modryandel.cz/sites/default/files/pictures/mb_e_1.jpeg" alt="Второй слайд [800x400]">
+                        <img class="d-block w-100" src="https://img1.goodfon.com/wallpaper/nbig/a/7f/taksi-mashina-krysha-avto.jpg" alt="Второй слайд [800x400]">
                         <div class="carousel-caption d-none d-md-block">
                         </div>
                     </div>

@@ -43,7 +43,6 @@ public class AddAutoController extends HttpServlet {
         auto.setAutoClass(req.getParameter("class"));
         auto.setPictureURL(req.getParameter("pictureURL"));
         auto.setManufacturer(req.getParameter("manufacturer"));
-        dao.create(auto);
         autoService.create(auto);
         resp.sendRedirect("/catalog");
     }

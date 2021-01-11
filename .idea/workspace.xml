@@ -7,105 +7,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="12.11.19">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/144f9785-889c-45e1-9294-98136ee5a405.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/144f9785-889c-45e1-9294-98136ee5a405/storage_v2/_src_/schema/messenger.E7tmqg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/144f9785-889c-45e1-9294-98136ee5a405/storage_v2/_src_/schema/taxi.HjY2AA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/144f9785-889c-45e1-9294-98136ee5a405/storage_v2/_src_/schema/taxi.HjY2AA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/144f9785-889c-45e1-9294-98136ee5a405/storage_v2/_src_/schema/taxi11.viyByw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/ContextListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/DBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/constants/DBConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/constants/RequestConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AddressDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AutoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/DAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/GenericDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/IMyDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/MongoDBDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/MySQLDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/OrderAutoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/RouteDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/TestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/TypeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/OrderAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/OrderView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Route.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Zapros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/exception/AppException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/GenericService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderAutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/RouteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addauto.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/autoinfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/catalog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/filladdress.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/shoppingcart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/directive/page.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/directive/taglib.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/head.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/zapros.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taxi_coursework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/ContextListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/ContextListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/DBConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/configuration/DBConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/DBConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/DBConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/RequestConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/constants/RequestConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddAutoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AddShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AutoInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/AutoInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/CatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/CatalogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/DeleteAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/DeleteAutoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FavouriteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FavouriteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FillAddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/FillAddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LogOutController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LogOutController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/RemoveShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/RemoveShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SearchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SearchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/ShoppingCardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/ShoppingCardController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SignUpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/SignUpController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/UpdateOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/controller/UpdateOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AddressDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AddressDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AutoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/AutoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/DAOFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/DAOFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/GenericDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/GenericDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/IMyDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/IMyDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MongoDBDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MongoDBDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MySQLDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/MySQLDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderAutoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderAutoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/OrderDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/RouteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/RouteDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TestDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TestDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TypeDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/TypeDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Entity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Entity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderAuto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderAuto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/OrderView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Route.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Route.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Zapros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/entity/Zapros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/exception/AppException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/exception/AppException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AddressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AddressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/AutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/GenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/GenericService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderAutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderAutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/RouteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/RouteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/egolik/taxi/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/com/egolik/taxi/controller/AddAutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/com/egolik/taxi/controller/AddAutoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/classes/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/footer.jspf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/menu.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/WEB-INF/view/jspf/menu.jspf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/taxi/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/taxi/index.jsp" afterDir="false" />
+    </list>
+    <list id="74b8623e-205a-4546-9915-68bca5fed73f" name="changed DB" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="D:\taxi_coursework\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,32 +160,35 @@
     <session id="370738485">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="52" />
+          <entry key="project.closed" value="66" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="4" />
           <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.30" value="9" />
           <entry key="project.open.time.31" value="5" />
-          <entry key="project.open.time.32" value="9" />
+          <entry key="project.open.time.32" value="10" />
           <entry key="project.open.time.33" value="4" />
-          <entry key="project.open.time.34" value="5" />
-          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.34" value="6" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="4" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="65" />
+          <entry key="project.opened" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -217,7 +196,7 @@
           <entry key="dummy" value="34" />
           <entry key="java" value="23798" />
           <entry key="jsp" value="6296" />
-          <entry key="jspf" value="1231" />
+          <entry key="jspf" value="1247" />
           <entry key="properties" value="18" />
           <entry key="sql" value="99" />
           <entry key="txt" value="23" />
@@ -227,7 +206,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="23795" />
-          <entry key="JSP" value="7527" />
+          <entry key="JSP" value="7543" />
           <entry key="PLAIN_TEXT" value="57" />
           <entry key="Properties" value="18" />
           <entry key="SQL" value="64" />
@@ -241,12 +220,12 @@
           <entry key="auto" value="3" />
           <entry key="class" value="15" />
           <entry key="html" value="1" />
-          <entry key="java" value="269" />
-          <entry key="jsp" value="50" />
-          <entry key="jspf" value="21" />
+          <entry key="java" value="316" />
+          <entry key="jsp" value="59" />
+          <entry key="jspf" value="31" />
           <entry key="order" value="2" />
           <entry key="order_status" value="1" />
-          <entry key="properties" value="11" />
+          <entry key="properties" value="17" />
           <entry key="route" value="1" />
           <entry key="sql" value="2" />
           <entry key="user" value="1" />
@@ -259,9 +238,9 @@
           <entry key="CLASS" value="15" />
           <entry key="Database Element" value="11" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="269" />
-          <entry key="JSP" value="71" />
-          <entry key="Properties" value="11" />
+          <entry key="JAVA" value="316" />
+          <entry key="JSP" value="90" />
+          <entry key="Properties" value="17" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="9" />
         </counts>
@@ -274,99 +253,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/CatalogController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/DeleteAutoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/FavouriteController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/FillAddressController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LogOutController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/OrderController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/RemoveShoppingCartController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/SearchController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/ShoppingCardController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -378,8 +264,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/SignUpController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="85">
+              <caret line="24" column="4" selection-start-line="23" selection-end-line="87" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/signup.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="28" selection-end-line="152" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -396,8 +305,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/UpdateOrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -405,8 +314,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-663">
-              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="918">
+              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="26" selection-start-line="21" selection-end-line="83" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -414,8 +341,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="130" selection-start-line="29" selection-start-column="130" selection-end-line="29" selection-end-column="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -424,7 +369,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/directive/page.jspf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="31" />
+              <caret line="6" column="31" selection-start-line="5" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -441,17 +386,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/UserService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/OrderDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="901">
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AutoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="116" column="32" selection-start-line="116" selection-start-column="32" selection-end-line="116" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/catalog.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddShoppingCartController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -478,13 +454,15 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/AdminOrderView.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/filladdress.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/head.jspf" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin.jsp" />
@@ -498,7 +476,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/zapros.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/DBConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/AutoService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/addauto.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AutoDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/UserDao.java" />
@@ -523,7 +500,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/MongoDBDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AccountController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddShoppingCartController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AdminController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AutoInfoController.java" />
@@ -533,6 +509,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/SignUpController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/UpdateOrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf" />
+        <option value="$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.properties" />
       </list>
     </option>
   </component>
@@ -580,7 +561,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1940" />
+    <option name="width" value="660" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -592,6 +573,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -686,28 +670,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="egolik" type="462c0819:PsiDirectoryNode" />
               <item name="taxi" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi_coursework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taxi_coursework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="egolik" type="462c0819:PsiDirectoryNode" />
-              <item name="taxi" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taxi_coursework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taxi_coursework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="egolik" type="462c0819:PsiDirectoryNode" />
-              <item name="taxi" type="462c0819:PsiDirectoryNode" />
               <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -750,6 +712,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taxi_coursework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taxi_coursework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -781,25 +752,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SearchEverywhereHistoryKey" value="properties&#9;PSI&#9;JAVA://java.util.Properties&#10;h&#9;null&#9;null" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577197435424" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608982857081" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/patternProj" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38505748" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1056,19 +1025,42 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MongoDBTest" />
+        <item itemvalue="Application.MongoDBTest" />
+        <item itemvalue="Application.MongoDBTest" />
+        <item itemvalue="Application.MongoDBTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="Talios.JiraConfigurationComponent" enableIssueTracking="false" autoRefresh="false" useExternalBrowser="false" refreshTimeout="0" annotateissues="false">
+    <servers />
+    <columns>
+      <column id="created" position="0" width="-1" />
+      <column id="key" position="1" width="-1" />
+      <column id="component" position="2" width="-1" />
+      <column id="title" position="3" width="-1" />
+      <column id="type" position="4" width="-1" />
+      <column id="priority" position="5" width="-1" />
+      <column id="status" position="6" width="-1" />
+      <column id="resolution" position="7" width="-1" />
+      <column id="assignee" position="8" width="-1" />
+      <column id="reporter" position="9" width="-1" />
+      <column id="updated" position="10" width="-1" />
+      <column id="dueDate" position="11" width="-1" />
+      <column id="version" position="12" width="-1" />
+      <column id="fixVersion" position="13" width="-1" />
+    </columns>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <branch name="master" repository="D:\taxi_coursework" original="true" />
       <changelist id="06aca077-fc9c-45ad-bee8-c3b8314c11c0" name="Default Changelist" comment="" />
       <created>1558791033481</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558791033481</updated>
+      <updated>1608982821980</updated>
       <workItem from="1558791037111" duration="1131000" />
       <workItem from="1558792405446" duration="13723000" />
       <workItem from="1558823174314" duration="3417000" />
@@ -1133,8 +1125,44 @@
       <workItem from="1577186603336" duration="10303000" />
       <workItem from="1577283831608" duration="617000" />
       <workItem from="1590353078204" duration="5170000" />
+      <workItem from="1590691561032" duration="7879000" />
+      <workItem from="1590951072213" duration="606000" />
+      <workItem from="1592135776602" duration="1828000" />
+      <workItem from="1592422069082" duration="595000" />
+      <workItem from="1592433759934" duration="1200000" />
+      <workItem from="1608661050582" duration="1442000" />
+      <workItem from="1608715916721" duration="649000" />
+      <workItem from="1608981446395" duration="165000" />
+      <workItem from="1608981659525" duration="818000" />
+      <workItem from="1608982822501" duration="97000" />
+      <workItem from="1608982959496" duration="221000" />
+      <workItem from="1608983224916" duration="1177000" />
+      <workItem from="1608984491883" duration="431000" />
+      <workItem from="1608984959293" duration="78000" />
+      <workItem from="1608985071604" duration="112000" />
+      <workItem from="1608991883395" duration="594000" />
+      <workItem from="1610368074661" duration="961000" />
     </task>
-    <servers />
+    <task id="LOCAL-00001" summary="Files missing">
+      <branch name="master" repository="D:\taxi_coursework" />
+      <created>1608982448951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608982821553</updated>
+      <workItem from="1608982486262" duration="334000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <option name="createBranch" value="false" />
+    <option name="useBranch" value="true" />
+    <servers>
+      <JIRA url="http://sedep.nure.ua/jira">
+        <option name="apiType" value="REST_2_0" />
+        <password>dfd3dfcfdfc2dfc5dfd8df84dfc2dfc5dfc6dfd3dfc1df9bdf98df99</password>
+        <option name="jiraVersion" value="7.12.3" />
+        <username>yehor.holyk</username>
+      </JIRA>
+    </servers>
   </component>
   <component name="TestHistory">
     <history-entry file="All_Features_in__taxi_coursework - 2019.05.25 at 17h 16m 41s.xml">
@@ -1142,7 +1170,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284301000" />
+    <option name="totallyTimeSpent" value="307407000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1155,8 +1183,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61252445" visible="true" weight="0.21677852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61252445" visible="true" weight="0.31946307" />
       <window_info id="Structure" order="1" sideWeight="0.1994135" side_tool="true" weight="0.23691276" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1171,7 +1200,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55278593" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.55278593" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.22873901" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32844576" />
@@ -1180,12 +1209,13 @@
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.45740741" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.58518517" />
+      <window_info anchor="bottom" id="JIRA" order="16" weight="0.5058651" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.27315435" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.09731544" />
       <window_info anchor="right" id="Database" order="6" weight="0.20738254" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1264,38 +1294,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/MongoDBTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/MongoRoute.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/MongoAuto.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/WorkWithMongo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/configuration/ContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="171" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/entity/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/DAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1303,27 +1301,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order_status">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/auto">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order_status" />
+    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/auto" />
+    <entry file="das://144f9785-889c-45e1-9294-98136ee5a405/schema/taxi/table/order" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/IMyDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1398,9 +1378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="236" column="56" selection-start-line="236" selection-start-column="56" selection-end-line="236" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1408,16 +1385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="957">
           <caret line="300" column="46" selection-start-line="300" selection-start-column="46" selection-end-line="300" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AutoDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1425,33 +1392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddShoppingCartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1483,17 +1423,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddAutoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="44" column="63" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/FavouriteController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1504,12 +1444,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LoginController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LogOutController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+        <state relative-caret-position="102">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1518,16 +1461,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="731">
           <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
         </state>
       </provider>
@@ -1541,11 +1477,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/SearchController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="272">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1558,8 +1501,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/SignUpController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="85">
+          <caret line="24" column="4" selection-start-line="23" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/account.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/signup.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="28" selection-end-line="152" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1572,22 +1525,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/UpdateOrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-663">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="918">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" selection-start-line="21" selection-end-line="83" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="130" selection-start-line="29" selection-start-column="130" selection-end-line="29" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/footer.jspf">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/menu.jspf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/directive/page.jspf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="5" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1598,17 +1586,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jspf/directive/page.jspf">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/service/OrderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="289">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/LogOutController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/OrderDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="901">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/dao/AutoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="116" column="32" selection-start-line="116" selection-start-column="32" selection-end-line="116" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/catalog.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/egolik/taxi/controller/AddShoppingCartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1643,7 +1663,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>commons-lang3-3.9</last-edited>
+          <last-edited>mongo-java-driver-3.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1672,6 +1692,7 @@
             <option name="proportions">
               <list>
                 <option value="0.38505748" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
