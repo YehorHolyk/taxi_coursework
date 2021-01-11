@@ -18,7 +18,7 @@ public class MainController extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        LOG.info("DONE");
+
         LOG.info("Main");
         req.setAttribute("title", "ky Egor");
         req.setAttribute("test", "ky Egor");
